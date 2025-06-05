@@ -61,8 +61,8 @@
 
 ## 🧬 Connect if you have fire in your veins:
 
-- 🧠 Blog: [https://yourwebsite.dev](https://yourwebsite.dev)
-- 📡 Encrypted contact: [your@proton.me](mailto:your@proton.me)
+- 🧠 Blog: [https://yourwebsite.dev](https://newsbot.lat)
+- 📡 Encrypted contact: [your@proton.me](mailto:dny@newsbot.lat)
 - 🧱 Alt links: Mastodon / GitLab / Matrix / Gitea
 
 ---
