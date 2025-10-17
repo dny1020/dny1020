@@ -61,9 +61,9 @@
 
 ## 🧬 Connect if you have fire in your veins:
 
-- 🧠 Blog: [https://yourwebsite.dev](https://newsbot.lat)
+- 🧠 Blog: [https://coffee.danilocloud.me/api/v1/docs](https://newsbot.lat)
 - 📡 Encrypted contact: [your@proton.me](mailto:dny@newsbot.lat)
-- 🧱 Alt links: Mastodon / GitLab / Matrix / Gitea
+- 🧱 Alt links: Mastodon / GitLab / Github / Gitea
 
 ---
 
