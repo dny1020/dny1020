@@ -60,7 +60,7 @@
 
 ## 🧬 Connect if your circuits still burn
 
-- 🧠 [Blog](https://newsbot.lat)
+- 🧠 [Blog](https://gitea.newsbot.lat)
 - 🧱  GitLab / GitHub / Gitea
 
 ---
