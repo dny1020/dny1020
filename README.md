@@ -1,7 +1,4 @@
-# 🧠 Welcome to My Fortress of Code
-
-> *“I don’t adapt to systems. I infiltrate, decode, and rewrite them.”*
-
+# 🧠 Welcome 
 ---
 
 ## ⚔️ Who I Am
@@ -65,5 +62,4 @@
 
 ---
 
-> *“If none of this makes sense, you were never meant to understand it.”*  
-> — The Architect of Invisible Systems
+> *“If none of this makes sense, you were never meant to 
