@@ -1,65 +1,93 @@
-# 🧠 Welcome 
----
+# Dny
 
-## ⚔️ Who I Am
-
-- 🧬 **Engineer of Digital Autonomy**
-- 🧠 Relentless learner chasing efficiency and computational purity
-- 🐍 Fluent in Python, Bash, and Git — syntax and philosophy alike
-- 🛡️ Radical self-hoster: my servers, my domains, my laws
-- 🔒 Privacy zealot and control purist — zero negotiation
+Engineer focused on automation, AI, real-time communications, and self-hosted infrastructure.
 
 ---
 
-## ⚙️ Battle Stack
+## About Me
 
-| Domain         | Arsenal                                                |
-|----------------|--------------------------------------------------------|
-| **Automation** | Python • Bash • Crontab • Docker • Ansible             |
-| **Self-Hosting** | Raspberry Pi • Traefik • Vaultwarden • Gitea         |
-| **Web & APIs** | FastAPI • Markdown • Nginx • SQLite • PostgreSQL       |
-| **Infrastructure** | GitHub Actions • WireGuard • Grafana • Prometheus  |
-| **Version Control** | Git CLI • GitHub • GitLab • Gitea                |
-| **Telephony** | SBC • Trunks • Asterisk • Avaya                         |
+- Backend and infrastructure engineer
+- Focused on AI integrations, RAG pipelines, telephony, and real-time systems
+- Experience with Linux, Docker, SIP, SBCs, and self-hosted services
+- Strong interest in performance, privacy, and system reliability
+- Daily tools: Python, Bash, Git, Markdown, Linux
 
 ---
 
-## 📂 Featured Projects
+## Tech Stack
 
-- ☕ [`coffee-tracker`](https://github.com/dny1020/coffee-tracker): API to quantify caffeine and heart rate — data meets discipline
-- ⚡ [`realtime-session-api`](https://github.com/dny1020/realtime-session-api): Real-time monitoring of sessions and events with secure WebSockets
-- 📰 [`api_news_eventos`](https://github.com/dny1020/api_news_eventos): Streamlined news and event ingestion engine
+### Languages & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+### AI & RAG
+![OpenAI](https://img.shields.io/badge/AI-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Semantic%20Search-blue)
+![Embeddings](https://img.shields.io/badge/Embeddings-Vector%20Search-5A67D8)
+![Transformers](https://img.shields.io/badge/Transformers-NLP-yellow)
 
-## 📜 Code Doctrine
+### Infrastructure & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-- ✨ *If a line of code doesn’t create power, it’s erased.*
-- 🧱 *Software must outlive its dependencies.*
-- 🚪 *Freedom starts where systems end.*
-
----
-
-## 📊 War Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dny1020&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dny1020&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🧠 Latest Rituals
-
-<!--START_SECTION:activity-->
-<!-- Automatically updates with GitHub Actions if enabled -->
-<!--END_SECTION:activity-->
+### Telephony & Real-Time
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![SIP](https://img.shields.io/badge/SIP-Telephony-darkgreen)
+![Kamailio](https://img.shields.io/badge/Kamailio-SBC-green)
+![Asterisk](https://img.shields.io/badge/Asterisk-PBX-orange)
 
 ---
 
-## 🧬 Connect if your circuits still burn
+## Featured Projects
 
-- 🧠 [Blog](https://gitea.newsbot.lat)
-- 🧱  GitLab / GitHub / Gitea
+### [`realtime-session-api`](https://github.com/dny1020/realtime-session-api)
+Real-time session monitoring platform with secure WebSocket communication and event processing.
+
+**Stack:** Python, FastAPI, WebSockets, Docker
 
 ---
 
-> *“If none of this makes sense, you were never meant to 
+### [`api_news_eventos`](https://github.com/dny1020/api_news_eventos)
+Automated ingestion and processing pipeline for news and event data.
+
+**Stack:** Python, APIs, Automation, Scheduling
+
+---
+
+### [`coffee-tracker`](https://github.com/dny1020/coffee-tracker)
+API for tracking caffeine intake, heart rate, and behavioral metrics.
+
+**Stack:** Python, FastAPI, SQLite
+
+---
+
+## Current Interests
+
+- AI agents and retrieval systems (RAG)
+- Semantic search and embeddings
+- WebRTC and SIP infrastructure
+- Self-hosted platforms and observability
+- Automation and infrastructure simplification
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dny1020&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dny1020&layout=compact&theme=transparent)
+
+---
+
+## Links
+
+- Blog: https://gitea.newsbot.lat
+- GitHub: https://github.com/dny1020
+
+---
+
+> “Simple systems survive longer.”
