@@ -81,13 +81,17 @@ proyecto implementa un **RAG local** sobre la base documental en `docs/Wiki`
 
 ---
 
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dny1020&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dny1020&layout=compact&theme=transparent)
 
 ---
 
 ## Links
 
-- Blog: https://gitea.newsbot.lat
+- Blog: https://danilocloud.me
 - GitHub: https://github.com/dny1020
 
 ---
