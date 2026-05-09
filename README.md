@@ -1,4 +1,4 @@
-# Dny
+# Danilo Narvaez
 
 Engineer focused on automation, AI, real-time communications, and self-hosted infrastructure.
 
@@ -45,13 +45,13 @@ Engineer focused on automation, AI, real-time communications, and self-hosted in
 ## Featured Projects
 
 ### [`realtime-session-api`](https://github.com/dny1020/realtime-session-api)
-Real-time session monitoring platform with secure WebSocket communication and event processing.
+Real-time session monitoring platform with secure WebSocket communication and event processing Asterisk.
 
 **Stack:** Python, FastAPI, WebSockets, Docker
 
 ---
 
-### [`api_news_eventos`](https://github.com/dny1020/api_news_eventos)
+### [`Bot Whatsapp`](https://github.com/dny1020/bot_whatsapp)
 Automated ingestion and processing pipeline for news and event data.
 
 **Stack:** Python, APIs, Automation, Scheduling
@@ -61,9 +61,15 @@ Automated ingestion and processing pipeline for news and event data.
 ### [`coffee-tracker`](https://github.com/dny1020/coffee-tracker)
 API for tracking caffeine intake, heart rate, and behavioral metrics.
 
-**Stack:** Python, FastAPI, SQLite
+**Stack:** Javascript, SQLite
 
 ---
+
+### [`rag_without_llm`](https://github.com/dny1020/rag_without_llm)
+proyecto implementa un **RAG local** sobre la base documental en `docs/Wiki`
+
+**Stack:** Python, FastAPI
+
 
 ## Current Interests
 
@@ -75,11 +81,7 @@ API for tracking caffeine intake, heart rate, and behavioral metrics.
 
 ---
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dny1020&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dny1020&layout=compact&theme=transparent)
 
 ---
 
